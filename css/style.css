@@ -1,0 +1,97 @@
+.mtable {
+    font-family: "Arial";
+    width: 1000px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: #fff;
+}
+
+.offer {
+    background-image: url(../img/offer-back.jpg);
+    background-repeat: repeat;
+    color: #ffffff;
+}
+
+.offer td {
+    padding-top: 35px;
+    padding-left: 105px;
+    padding-right: 105px;
+    padding-bottom: 35px;
+
+}
+
+.offer p {
+    padding-bottom: 15px;
+}
+
+.offer a {
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 23px;
+    padding-bottom: 12px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 20px;
+    background-color: #1f1f56;
+    font-weight: bold;
+}
+
+.houses table td {
+    padding-top: 35px;
+    padding-bottom: 38px;
+}
+
+.houses h3 {
+    font-size: 16px;
+    color: #1f1f56;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.houses p {
+    padding-left: 20px;
+    padding-right: 50px;
+    font-size: 13px;
+    color: #9999a6;
+}
+
+.lines {
+    border-top: 1px solid #111111;
+    border-bottom: 1px solid #e3e3eb;
+}
+
+.social {
+    background-color: #08081a;
+}
+
+.copy {
+    background-color: #08081a;
+}
+
+.copy p {
+    font-size: 13px;
+    color: #9999a6;
+}
+
+.footer {
+    text-align: center;
+    align: center;
+}
+
+.webpage {
+    background-color: #000014;
+}
+
+.gotopagea {
+    border-right: 1px solid #fd8300;
+}
+
+.webpage a {
+    padding-right: 7px;
+    padding-left: 7px;
+    text-decoration: none;
+    font-size: 11px;
+    color: #fd8300;
+}
