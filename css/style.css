@@ -37,6 +37,58 @@
     font-weight: bold;
 }
 
+.inf {
+    text-align: left;
+}
+
+.inf h2 {
+    font-size: 24px;
+    color: #24242b;
+    font-weight: bold;
+}
+
+.inf p {
+    font-size: 14px;
+    color: #666666;  
+    padding-bottom: 20px; 
+}
+
+.inf a {
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: #fd8300;
+    padding-right: 29px;
+    padding-left: 20px;
+    padding-top: 16px;
+    padding-bottom: 12px;
+    text-decoration: none;
+}
+
+.goodthingstr {
+    background-color: #ededf5;
+}
+
+.goodthings  p{
+    font-size: 13px;
+    color: #666666;
+}
+
+.goodthings  h3{
+    font-size: 14px;
+    color: #24242b;
+    font-weight: bold;
+}
+
+.goodthings {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+}
+
 .houses table td {
     padding-top: 35px;
     padding-bottom: 38px;
