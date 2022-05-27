@@ -1,9 +1,49 @@
 .mtable {
     font-family: "Arial";
-    width: 1000px;
-    padding-left: 200px;
-    padding-right: 200px;
     background-color: #fff;
+}
+
+table {
+    padding: 0;
+    border-collapse: collapse;
+}
+
+.mtd {
+    width: 600px;
+    padding: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.lgb {
+    background-color: #dcdce5;
+    padding: 0;
+}
+
+.phone {
+    text-align: right;
+}
+
+.logo {
+    padding-left: 30px;
+    padding-right: 80px;
+}
+
+.phone {
+    padding-right: 30px;
+}
+
+.phone-numb {
+    font-size: 16px;
+    color: #25252c;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.notification {
+    font-size: 13px;
+    color: #9999a6;
+    font-style: italic;
 }
 
 .offer {
@@ -39,6 +79,10 @@
 
 .inf {
     text-align: left;
+}
+
+.inf td {
+    padding-bottom: 50px;
 }
 
 .inf h2 {
@@ -110,12 +154,21 @@
 }
 
 .lines {
-    border-top: 1px solid #111111;
+    border-top: 1px solid #e3e3eb;
     border-bottom: 1px solid #e3e3eb;
 }
 
 .social {
     background-color: #08081a;
+}
+
+.social td {
+    padding-top: 30px;
+}
+
+.greyb {
+    background-color: #dcdce5;
+    padding: 0;
 }
 
 .copy {
@@ -129,7 +182,6 @@
 
 .footer {
     text-align: center;
-    align: center;
 }
 
 .webpage {
@@ -141,7 +193,7 @@
 }
 
 .webpage a {
-    padding-right: 7px;
+    padding-right: 9px;
     padding-left: 7px;
     text-decoration: none;
     font-size: 11px;
