@@ -11,6 +11,15 @@ table {
 .mtd {
     width: 600px;
     padding: 0;
+}
+
+.ttd {
+    width: 600px;
+    padding: 0;
+}
+
+.ttd,
+.lgb {
     padding-top: 15px;
     padding-bottom: 15px;
 }
@@ -22,6 +31,7 @@ table {
 
 .phone {
     text-align: right;
+    padding-right: 30px;
 }
 
 .logo {
@@ -29,8 +39,8 @@ table {
     padding-right: 80px;
 }
 
-.phone {
-    padding-right: 30px;
+.imgphone {
+    padding-right: 10px;
 }
 
 .phone-numb {
@@ -39,7 +49,7 @@ table {
     font-weight: bold;
     text-decoration: none;
 }
-
+ 
 .notification {
     font-size: 13px;
     color: #9999a6;
