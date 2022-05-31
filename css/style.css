@@ -56,43 +56,16 @@ table {
     font-style: italic;
 }
 
-.offer {
-    background-image: url(../img/offer-back.jpg);
-    background-repeat: repeat;
-    color: #ffffff;
-}
-
-.offer td {
-    padding-top: 35px;
-    padding-left: 105px;
-    padding-right: 105px;
-    padding-bottom: 35px;
-
-}
-
-.offer p {
-    padding-bottom: 15px;
-}
-
-.offer a {
-    padding-top: 15px;
-    padding-left: 30px;
-    padding-right: 23px;
-    padding-bottom: 12px;
-    color: #ffffff;
-    text-decoration: none;
-    font-size: 14px;
-    border-radius: 20px;
-    background-color: #1f1f56;
-    font-weight: bold;
+.awb {
+    background-color: #f5f5f5;
+    padding: 0;
 }
 
 .inf {
     text-align: left;
-}
-
-.inf td {
     padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 55px;
 }
 
 .inf h2 {
@@ -113,10 +86,10 @@ table {
     font-weight: bold;
     border-radius: 20px;
     background-color: #fd8300;
-    padding-right: 29px;
+    padding-right: 20px;
     padding-left: 20px;
-    padding-top: 16px;
-    padding-bottom: 12px;
+    padding-top: 13px;
+    padding-bottom: 13px;
     text-decoration: none;
 }
 
@@ -124,28 +97,29 @@ table {
     background-color: #ededf5;
 }
 
-.goodthings  p{
+.goodthings  p {
     font-size: 13px;
+    margin: 8px 0 0 0;
     color: #666666;
 }
 
-.goodthings  h3{
+.goodthings  h3 {
+    margin: 0;
     font-size: 14px;
     color: #24242b;
     font-weight: bold;
 }
 
 .goodthings {
-    padding-top: 35px;
-    padding-bottom: 35px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
     text-align: center;
 }
 
 .houses table td {
-    padding-top: 35px;
-    padding-bottom: 38px;
+    padding-top: 17px;
+    padding-bottom: 19px;
+    padding-left: 30px;
 }
 
 .houses h3 {
@@ -163,9 +137,13 @@ table {
     color: #9999a6;
 }
 
+.hpp {
+    padding-bottom: 50px;
+}
+
 .lines {
     border-top: 1px solid #e3e3eb;
-    border-bottom: 1px solid #e3e3eb;
+    border-bottom: 2px solid #e3e3eb;
 }
 
 .social {
@@ -194,18 +172,42 @@ table {
     text-align: center;
 }
 
-.webpage {
-    background-color: #000014;
+.offer {
+    background-image: url("https://raw.githubusercontent.com/GreatMaxKyr/hata-plus-letter/master/img/offer-back.jpg");
+    background-repeat: repeat;
+    color: #ffffff;
+    padding-top: 35px;
+    padding-left: 105px;
+    padding-right: 105px;
+    padding-bottom: 35px;
 }
 
-.gotopagea {
-    border-right: 1px solid #fd8300;
+.offer p {
+    padding-bottom: 15px;
+}
+
+.offer a {
+    padding-top: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 13px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 20px;
+    background-color: #1f1f56;
+    font-weight: bold;
+}
+
+.webpage {
+    background-color: #000014;
+    color: #fd8300;
 }
 
 .webpage a {
+    color: #fd8300;
     padding-right: 9px;
-    padding-left: 7px;
+    padding-left: 9px;
     text-decoration: none;
     font-size: 11px;
-    color: #fd8300;
 }
